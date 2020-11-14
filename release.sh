@@ -1,4 +1,4 @@
-#git clone -o calendar https://github.com/Kovalsky95/calendar.git
+#git clone -o calculator_r2 https://github.com/Kovalsky95/calculator_r2.git
 #git config --global credential.helper cache
 git config --global credential.helper "cache --timeout=3600"
 #git config credential.helper store
@@ -6,4 +6,4 @@ git config --global credential.helper "cache --timeout=3600"
 git pull --all
 git add .
 git commit -m PenguinL
-git push --set-upstream calendar master
+git push --set-upstream calculator_r2 master
