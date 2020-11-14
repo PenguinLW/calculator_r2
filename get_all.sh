@@ -1,0 +1,1 @@
+git clone -o calculator_r2 https://github.com/Kovalsky95/calculator_r2.git
