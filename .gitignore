@@ -4,3 +4,5 @@ gitignore
 bin/*
 *.class
 *.jar
+# macOS Finder metadata
+.DS_Store
